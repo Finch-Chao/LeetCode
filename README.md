@@ -7,3 +7,4 @@
   03    | 2018-10-09 | [Two SumLongest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](./Java/LongestSubstring.java) | Medium |  |
   04    | 2018-10-10 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)| [Python](./Python/median-of-two-sorted-arrays.py) | Hard |  
   05    | 2018-10-11 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Python](./Python/Longest-Palindromic-Substring.py) | Medium | |
+  06	| 2018-10-12 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Python](./Python/ZigZag-Conversion.py)|Medium|	|
