@@ -8,3 +8,4 @@
   04    | 2018-10-10 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)| [Python](./Python/median-of-two-sorted-arrays.py) | Hard |  
   05    | 2018-10-11 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Python](./Python/Longest-Palindromic-Substring.py) | Medium | |
   06	| 2018-10-12 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Python](./Python/ZigZag-Conversion.py)|Medium|	|
+  07	| 2018-10-13 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Python](./Python/Reverse-Integer.py)|Easy|	|
