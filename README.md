@@ -6,3 +6,4 @@
   02    | 2018-10-08 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description//) | [Python](./Python/add-two-numbers.py)/[Java](./Java/Add_Two_Numbers.java) | Medium |  |
   03    | 2018-10-09 | [Two SumLongest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](./Java/LongestSubstring.java) | Medium |  |
   04    | 2018-10-10 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)| [Python](./Python/median-of-two-sorted-arrays.py) | Hard |  
+  05    | 2018-10-11 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Python](./Python/Longest-Palindromic-Substring.py) | Medium | |
